@@ -20,7 +20,7 @@
             {
                 Console.WriteLine("You barely passed with a C, study ASAP!");
             }
-            else if (grade <= 69)
+            else
             {
                 Console.WriteLine("You failed, there's no D's in this class");
             }
